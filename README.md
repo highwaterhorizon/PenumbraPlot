@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="assets/raytracer_sP9_icon.ico" width="100" alt="Project Icon">
 </p>
 

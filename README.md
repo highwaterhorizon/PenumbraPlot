@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.ico" width="100" alt="Project Icon">
+  <img src="assets/raytracer_sP9_icon.ico" width="100" alt="Project Icon">
 </p>
 
 # PenumbraPlot
